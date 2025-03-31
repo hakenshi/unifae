@@ -1,0 +1,36 @@
+1- Não é possível utilizar um computador sem sistema operacional, o sistema operacional é responsável por fazer a ponte entre o hardware e o software tornando possível que o sistema execute processos e tarefas.
+
+2- Um sistema operacional é caracterizado como uma software que atua entre o software e o hardware de um sistema, como por exemplo, um computador. Um sistema operacional é responsável por auxiliar o hardware de um sistema a se comunicar com outros dispositivos internos ou externos de tal sistema, como por exemplo, é pelo sistema operacional que o usuário é capaz de abrir e executar um programa. O sistema operacional faz uma chamada ao processador que por sua vez, se comunica com o armazenamento do sistema e executa o programa demandado pelo usuário, armazenando-o em memória.
+
+3- 
+
+4- O sistema operacional é responsável por alocador e desalocar programas em memória a fim de melhorar a experiência do usuário. Quando algo ou alguém faz uma requisição ao sistema operacional para a execução de um programa, o sistema operacional faz uma chamada ao processador que por sua vez, executa o armazenamento do sistema que faz uma busca por o binário executável do programa. Quando o programa é aberto, o sistema operacional armazena esse programa em memória, otimização a busca de recursos.
+
+O sistema operacional também é responsável por coordenadar como o software interage com o dispositivos de entrada e saída como, mouse, teclado ou a caixa de som de um computador.
+
+5-
+
+6- Existem inúmeros sistemas operacionais, os mais comuns em computadores são: windows, mac e distribuições linux. 
+Para dispositivos móveis existem o iOS, o Android e as inúmeras versões do android como o HyperOS da xiaomi.
+Para servidores é comunm se utilizar sistemas baseados em unix como FreeBSD ou OpenBSD e distrbuições linux como ubuntu, debian ou o falecido centos.
+Para sistemas embarcados, existem sistemas operacionais como raspeberry pi OS, desenvolvido para ser utilizado em mini computadores raspeberry pi e também desenvolvido utilizando linux.
+
+7-
+
+8-
+
+9-
+
+10- O processamento em batch ou em bateladas, é caracterizado pelo acúmulo de processamentos durante um determinado periódo de tempo para que o sistema execute todos esses processamentos de uma vez só quando existem menos usuários utilizando o sitema. Um exemplo disso são os bancos, a grande maioria dos bancos processa suas transações durante a noite, a fim de utilizar todo o poder de processamento do sistema qunado existem menos usuários online.
+
+11- Um sistema de tempo compartilhado permite que vários usuários utilizem um único computador ao mesmo tempo, compartilhando recursos de forma eficiente por meio de técnicas de escalonamento de CPU e multiprogramação. permitindo que o sistema armazene em memória programas recentmente executados pelo usuário, ter eficiência de recursos e ser interativo permitindo que o usuário interaja com o sistema em tempo real.
+
+12- Um sistema de tempo real, como o próprio nome sugere, executa tarefas em tempo real. Aplicações que utilizam em tempo real são, por exemplo, plataformas de live-streaming como a twitch, sistemas de batepapo como skype, discord ou teamspeak ou até mesmo qualquer sistema de notificação. 
+
+13-
+
+14
+
+15- 
+
+16-
